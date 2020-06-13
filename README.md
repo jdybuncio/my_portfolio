@@ -4,7 +4,7 @@ Galvanize g119 Cohort / Graduated in June 2020
 ### Predicting Supreme Court Case Outcomes using transcribed Oral Arguments
 This project focuses on the most visible component we have as onlookers into the Supreme Court: Oral Arguments. The contents of this project parse the transcriptions of oral arguments into numerical features to see if they add to one's ability to predict the winning side of a Supreme Court case.
 
-![dashboard](images/screenshot.png)
+![Prediction Accuracy by current Justice](images/justice_vote_predictions.png)
 
 - [GitHub repo](https://github.com/jdybuncio/data-science-and-the-supreme-court)
 
@@ -15,7 +15,7 @@ Python, Pandas, Json, Scikit-learn, Matplotlib, and Tensorflow
 ### Predicting Student Outcomes in Virtual Learning Environment
 Due to the rapid shift towards virtual learning brought on by COVID-19, I was interested in looking into the new possibilities given the additional data virtual learning offers to the education space. I take a dataset from the U.K.'s largest undergraduate education provider, The Open University, to create a prediction model which seeks to identify which students have the highest propensity to fail as of Day 1 of any course. I primarily investigate hypotheses related to if specific student interactions with the online platform are strong predictors for if the student passes or fails a class.
 
-![trump ticker](images/trump_ticker.gif)
+![ROC Curve vs. Validation Set of various models tested](images/roc_curve.png)
 
 - [GitHub repo](https://github.com/jdybuncio/predicting-virtual-learning-outcomes)
 
@@ -27,7 +27,7 @@ Python, Scikit-learn, Pandas, Numpy, Matplotlib
 ### Using Overall Mortality numbers to better understand COVID-19
 One thing I was struck by during the 2020 global pandemic was the daily reporting on both death and sickness. In an attempt to digest the COVID-19 death totals and projections at the pandemic's onset, I loaded, cleaned, and merged three datasets in order to investigate mortality in the United States.
 
-![exp3](images/exp3_arm_selection.png)
+![Covid-19 Trends in New York: A sign of what is coming](images/covid_trends.png)
 
 - [GitHub repo](https://github.com/jdybuncio/usa-mortality-investigation)
 - [Blog post](https://datadybuncio.substack.com/p/motd-1-us-mortality-rates)

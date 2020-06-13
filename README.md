@@ -39,7 +39,7 @@ Python, Pandas, Bayesian and classical statistics, Matplotlib
 ### Predicting Housing Prices
 I joined a Kaggle competition to use a dataset from Ames, Iowa to predict the sale prices of houses. This project was my first foray into attempting to apply some of the Supervised Learning Algorithms I learned and to try to explain them to non-technical stakeholders.
 
-![Mood by continent](images/mood_by_continent.png)
+![View into one Decision Tree](images/tree.png)
 
 - [GitHub repo](https://github.com/jdybuncio/predicting-housing-prices-Kaggle-comp)
 - [Blog post](https://datadybuncio.substack.com/p/predicting-housing-prices)

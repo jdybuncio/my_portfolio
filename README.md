@@ -1,5 +1,5 @@
-# My Portfolio of various Data Science Projects
-Galvanize g119 Cohort / Graduated in June 2020
+# My Portfolio
+An overview of my personal Data Science projects are shown below. The Github repo links which explain the full project are included.
 
 ### Predicting Supreme Court Case Outcomes using transcribed Oral Arguments
 This project focuses on the most visible component we have as onlookers into the Supreme Court: Oral Arguments. The contents of this project parse the transcriptions of oral arguments into numerical features to see if they add to one's ability to predict the winning side of a Supreme Court case.
